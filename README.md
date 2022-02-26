@@ -57,7 +57,7 @@ Consider a case in Healthcare where a Machine Learning (ML) system is asked to p
 ## What is the potential impact of your project?
 The correct prediction of heart disease can prevent life threats, and incorrect prediction can prove to be fatal at the same time. ML model will help to predict future risk of Cardiovascular Diseases.
 
-## HOW and WHY have you approached the problem statement? 
+## HOW you approached the problem statement? 
 I started the study by handling missing values, our dataset was having many columns with null entities I have removed null values using KNN Imputer and Simple imputer I've seen how smoking, systolic BP, diastolic BP, BMI, Heart rate, glucose, hypertensive, cholesterol, diabetes, etc affects the person.
 Factors like Blood Pressure, Glucose Level, Age had created a huge impact on a person's heart condition. We checked the correlations between the factors. Handled the class Imbalance using SMOTE and experimented with a combination of SMOTE + Tomek links. SMOTE gave a good result of 50-50 class balanced data.
 Then I started building classification models. I started with Logistic regression with default parameters but I did not get a good score.

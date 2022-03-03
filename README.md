@@ -51,6 +51,9 @@ Predict variable (desired target)
 • 10-year risk of coronary heart disease CHD(binary: “1”, means “Yes”, “0” means “No”) -
 DV
 
+## Correlation:
+
+
 ## What is the business use case of project?
 Consider a case in Healthcare where a Machine Learning (ML) system is asked to predict the risk of a patient developing cardiovascular disease in a given time frame, say within the next one year.The output expected from the model is a risk score which if equal to or above a chosen threshold indicates that patient has a risk of developing cardiovascular disease and if it were below the threshold, indicates no risk.
 

@@ -52,6 +52,7 @@ Predict variable (desired target)
 DV
 
 ## Correlation:
+![image](https://user-images.githubusercontent.com/76203121/156549273-f3027bbe-22b2-4cc0-891b-eede0a5c46e4.png)
 
 
 ## What is the business use case of project?
